@@ -1,0 +1,7 @@
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const REQUIRE_LOGIN = "REQUIRE_LOGIN";
+
+export const SIGNIN_SUCCESS = "SIGNIN_SUCCESS";
+export const SIGNIN_FAIL = "SIGNIN_FAIL";
+export const REQUIRE_SIGNIN = "REQUIRE_SIGNIN";
